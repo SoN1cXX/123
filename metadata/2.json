@@ -1,0 +1,15 @@
+{
+  "description": "AI generated images of deer and zebra", 
+  "image": "ipfs://QmbxkVc9xrMwesdrTfDmfNSbVyH5ZFKgVrdybC1jVfEbY9/2.jpg/",
+  "name": "deer and zebra #2",
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "High"
+    },
+    {
+      "trait_type": "Level",
+      "value": 5
+    }
+  ]
+}
